@@ -7,7 +7,7 @@ material: used 3h30min to get through DCSS materials to 'Factors'
 
 issues: there were some installation hiccups on linux (needed to install curl, openssl etc w apt-get install)
 
-
+keep:
 + great+handy session to know R
 + it was very intersting and useful sessions. Thank you very much!
 + very knowledgeable instructor. gives good explanations
@@ -21,7 +21,7 @@ issues: there were some installation hiccups on linux (needed to install curl, o
 + good pace
 + sticky note system
 
-
+to improve:
 - a little overwhelming for someone who has never been exposed to R and programming before (on a green sticky)
 - two break instead of one
 - better ventilation in the room
