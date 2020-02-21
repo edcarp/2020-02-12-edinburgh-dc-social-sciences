@@ -30,3 +30,11 @@ to improve:
 - delivery of workshop might be missing some of the reasons of why they work
 - also, instructor seems very knowledgeable but sounds a bit insecure
 - it was not that clear how to open a dataset
+
+# Feebback (Spreadsheets and OpenRefine) 12.2.2020
+
+NB: 4 participants only
+
+keep:
+ + great explanation of useful software
+
