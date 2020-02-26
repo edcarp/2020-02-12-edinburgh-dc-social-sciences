@@ -1,4 +1,43 @@
 
+# Feedback (R data analysis and visualisation) 26.2.2020
+
+ R data analysis and visualisation (13:00-16:30)
+
+ numbers: 32 places (fully booked), ca 26 on the day, 1-2 participants left early;
+          had 6 helpers which is a very good ratio 
+ 
+ issues: surprisingly more trouble with downloading the data again (took ca 10min rather than 1min), 
+         then also a bit with write_csv
+ 
+ material: got through the lesson, but had to drop spread/gather and serveral exercises, 
+           in the end rushed through facets and saving the plot
+ 
+ issues with downloading csv (at the start, ca 10m in instread of 1min) and also using write_csv alter
+ helper-participant ratio ca 1 to 4 (good), when all were speaking almost too loud
+
+ keep:
+ + good exercises 
+ + learning extra things about ggplot I hadn't used
+ + really great session thanks so much. love the helpers!
+ + clear and informative as ? ? thanks   (two words unclear) 
+ + liked the explanation on GGplot
+ + that was great, last weeks session helped so much with this weeks + I feel like I'm getting somewhere!
+ + thank you for the course! I think it was a good system and don't have any suggestions!
+ + Great example + exercise
+ + very informative; definitely more useful to attempt to work through course resources before session
+ + Many demonstrators to help around: Good job! helpful staff.
+ + I do enjoy this workshop and the way you taught. I learned a lot! thanks! :p
+
+ improve:
+ - signpost when we are getting something essential, and when we are getting something optional
+ - having a sort of workshop handout with questions to work through if you are working through a bit faster,
+   rather than just one the shared bit
+ - sometimes can go fast
+ - put the master code on the sharing doc at ehnd of class pls
+ - A lot of chatter when we were going through due to helpers. Quite distracting.
+ - Felt the workshop took longer to start and spendt too long on 'recap' 'troubleshooting' at beginning.
+
+
 # Feedback (R intro) 19.2.2020
 
 numbers: fully booked (32 places); 1-2 people missing, 1 left during break
