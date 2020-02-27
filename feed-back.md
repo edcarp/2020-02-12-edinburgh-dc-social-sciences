@@ -1,4 +1,10 @@
 
+Feedback for:
+
+* [Day 2 of R](feedback-r-data-analysis-and-visualisation-2622020)
+* [Day 1 of R](feedback-r-intro-1922020)
+* [Open Refine](feedback-spreadsheets-and-openrefine-1222020)
+
 # Feedback (R data analysis and visualisation) 26.2.2020
 
  R data analysis and visualisation (13:00-16:30)
@@ -70,7 +76,7 @@ to improve:
 - also, instructor seems very knowledgeable but sounds a bit insecure
 - it was not that clear how to open a dataset
 
-# Feebback (Spreadsheets and OpenRefine) 12.2.2020
+# Feedback (Spreadsheets and OpenRefine) 12.2.2020
 
 NB: 4 participants only
 
