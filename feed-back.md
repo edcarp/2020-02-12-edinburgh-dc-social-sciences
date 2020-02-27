@@ -1,9 +1,9 @@
 
-Feedback for:
+# Feedback
 
-* [Day 2 of R](feedback-r-data-analysis-and-visualisation-2622020)
-* [Day 1 of R](feedback-r-intro-1922020)
-* [Open Refine](feedback-spreadsheets-and-openrefine-1222020)
+* [Day 2 of R](#feedback-r-data-analysis-and-visualisation-2622020)
+* [Day 1 of R](#feedback-r-intro-1922020)
+* [Open Refine](#feedback-spreadsheets-and-openrefine-1222020)
 
 # Feedback (R data analysis and visualisation) 26.2.2020
 
