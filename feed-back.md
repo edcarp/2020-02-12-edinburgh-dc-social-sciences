@@ -3,16 +3,16 @@
 
  R data analysis and visualisation (13:00-16:30)
 
- numbers: 32 places (fully booked), ca 26 on the day, 1-2 participants left early;
-          had 6 helpers which is a very good ratio 
+ numbers: 32 places (fully booked), 23 attendees on the day, 1-2 participants left early;
+          had 6 helpers which is a very good ratio.
  
  issues: surprisingly more trouble with downloading the data again (took ca 10min rather than 1min), 
-         then also a bit with write_csv
+         then also a bit with `write_csv`.
  
  material: got through the lesson, but had to drop spread/gather and serveral exercises, 
-           in the end rushed through facets and saving the plot
+           in the end rushed through facets and saving the plot.
  
- issues with downloading csv (at the start, ca 10m in instread of 1min) and also using write_csv alter
+ issues with downloading csv (at the start, ca 10m in instead of 1min) and also using `write_csv` alter
  helper-participant ratio ca 1 to 4 (good), when all were speaking almost too loud
 
  keep:
@@ -40,11 +40,11 @@
 
 # Feedback (R intro) 19.2.2020
 
-numbers: fully booked (32 places); 1-2 people missing, 1 left during break
+numbers: fully booked (32 places); 1-2 people missing, 1 left during break.
 
-material: used 3h30min to get through DCSS materials to 'Factors'
+material: used 3h30min to get through DCSS materials to 'Factors'.
 
-issues: there were some installation hiccups on linux (needed to install curl, openssl etc w apt-get install)
+issues: there were some installation hiccups on linux (needed to install curl, openssl etc w apt-get install).
 
 keep:
 + great+handy session to know R
