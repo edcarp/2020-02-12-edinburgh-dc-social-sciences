@@ -1,9 +1,30 @@
 
 # Feedback
 
+* [SQL sessio](#sql-session)
 * [Day 2 of R](#feedback-r-data-analysis-and-visualisation-2622020)
 * [Day 1 of R](#feedback-r-intro-1922020)
 * [Open Refine](#feedback-spreadsheets-and-openrefine-1222020)
+
+# SQL session
+8 attendess turned up out of 17 (or 18) regisrations.
+
+## The good
+
+* It was quite useful!!!
+* Many examples to demostrate knowledge.
+* Generally very good!
+* Great material. It would be very helpful for research
+* Very helpful. Thank you! :)
+* No. [Sounds like this was meant as "No negatives", see below - person got confused?]
+
+## The bad
+
+* Could you please put the material n collaborative document or by email. Thank you very much.
+* Could do with illustrations (e.g.: of join).
+* It seems a longer session will be useful. :)
+* Hope could have a handout of the key points if possible. :)
+* chiling environment; many supportive tutors; cofee & tea [Sound like positive comments but on a red postit note]
 
 # Feedback (R data analysis and visualisation) 26.2.2020
 
