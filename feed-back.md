@@ -1,7 +1,7 @@
 
 # Feedback
 
-* [SQL sessio](#sql-session)
+* [SQL session](#sql-session)
 * [Day 2 of R](#feedback-r-data-analysis-and-visualisation-2622020)
 * [Day 1 of R](#feedback-r-intro-1922020)
 * [Open Refine](#feedback-spreadsheets-and-openrefine-1222020)
